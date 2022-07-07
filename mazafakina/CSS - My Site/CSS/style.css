@@ -1,0 +1,151 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    margin: 6rem;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+
+
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.profile-picture {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 3rem 0 0 0;
+}
+
+.hello {
+    margin: 3rem;
+}
+
+.description {
+    width: 30%;
+    margin: 0 auto 7rem auto;
+}
+
+.skills-one {
+    width: 25%;
+    border-radius: 50%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skills-two {
+    width: 25%;
+    border-radius: 50%;
+    float: right;
+    margin-left: 30px;
+}
+
+.skill-row {
+    width: 600px;
+    margin: 100px auto 200px auto;
+    text-align: left;
+    line-height: 1.5;
+}
+
+hr {
+    background-color: none;
+    color: grey;
+    border-style: dotted none none;
+    border-width: 6px;
+    width: 4%;
+}
+
+.get-in-touch {
+    margin: 6rem auto 3rem auto;
+}
+
+.music-taste {
+    margin-bottom: 2rem;
+}
+
+.the-smiths {
+    margin: 3rem 33rem 4rem 33rem;
+}
+
+.btn {
+    background: #18b5ba;
+    background-image: -webkit-linear-gradient(top, #18b5ba, #54768c);
+    background-image: -moz-linear-gradient(top, #18b5ba, #54768c);
+    background-image: -ms-linear-gradient(top, #18b5ba, #54768c);
+    background-image: -o-linear-gradient(top, #18b5ba, #54768c);
+    background-image: linear-gradient(to bottom, #18b5ba, #54768c);
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+.btn:hover {
+    background: #14b4ba;
+    text-decoration: none;
+  }
+
+.bottom-container {
+    background-color: #66BFBF;
+    margin-top: 8rem;
+    padding: 50px 0 20px;
+}
+
+a {
+    color: #11999E;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    margin: 10px 20px;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+  .credits {
+    font-size: 0.75rem;
+    padding: 20px 0 0px;
+    color: white;
+  }
